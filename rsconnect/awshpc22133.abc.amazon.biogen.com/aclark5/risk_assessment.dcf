@@ -1,0 +1,13 @@
+name: risk_assessment
+title: risk_assessment
+username: aclark5
+account: aclark5
+server: awshpc22133.abc.amazon.biogen.com
+hostUrl: https://awshpc22133.abc.amazon.biogen.com/__api__
+appId: 378
+bundleId: 1519
+url: https://awshpc22133.abc.amazon.biogen.com/content/378/
+when: 1637167507.29194
+lastSyncTime: 1637167507.29194
+asMultiple: FALSE
+asStatic: FALSE
